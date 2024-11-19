@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "random": "cpp",
+        "new": "cpp"
+    },
+    // "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: llvm, IndentWidth: 4, AllowShortIfStatementsOnASingleLine: true, BreakBeforeBraces: Attach }"
+}
