@@ -281,7 +281,7 @@ void drawBackground()
 	RawMonochromeBitmap bg;
 	// ImageReturnCode result;
 	// result = reader.drawBMP((char *)"bmps/weather_bg.bmp", display, 0, 0, false);
-	if (!bg.loadFromBMP("bmp/weather_bg.bmp"))
+	if (!bg.loadFromBMP("weather_bg.bmp"))
 	{
 		Serial.println(F("Unable to load background"));
 		while (1)
